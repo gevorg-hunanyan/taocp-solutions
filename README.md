@@ -1,5 +1,5 @@
 # TAOCP Exercise Solutions
-$O$
+
 <!--ts-->
 * [Chapter 1 - Basic Concepts](#chapter-1---basic-concepts)
   * [1.1 Algorithms](#11-algorithms)

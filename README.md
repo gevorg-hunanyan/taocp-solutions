@@ -25,14 +25,14 @@
 ## 1.1 Algorithms
 
 [ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex1.md)
-ex2
-ex3
-ex4
-ex5
-ex6
-ex7
-ex8
-ex9
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex2.md)
+[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex3.md)
+[ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex4.md)
+[ex5](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex5.md)
+[ex6](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex6.md)
+[ex7](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex7.md)
+[ex8](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex8.md)
+[ex9](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex9.md)
 
 ## 1.2 Mathematical Preliminaries
 

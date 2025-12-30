@@ -2,4 +2,4 @@
 
 ---
 
-coming soon
+Either the program halts without entering step $E3$, or it executes $E3$ at least once. If it halts without entering $E3$, then $E1$ is only executed once so there is nothing to prove here. If it enters $E3$, and given that the only replacements of $m$ and $n$ occur in step $E3$, where $m$ is replaced by $n$, and $n$ is replaced by $r<n$, we can conclude that $m>n$ is always the case after the first execution of $E3$.

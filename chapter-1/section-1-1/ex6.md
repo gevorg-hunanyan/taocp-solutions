@@ -2,4 +2,72 @@
 
 ---
 
-coming soon
+As we have seen in the text we need to try the algorithm for $m=1, \ldots, m=5$, count the total number of times step $E1$ has been executed, and divide by $n$.
+
+For $n=5$ and $m=1$ we have
+
+$$
+\begin{matrix}
+\text{Start:} & m=1, & n=5. &      \\
+E1:           & m=1, & n=5, & r=1. \\
+E3:           & m=5, & n=1, & r=1. \\
+E1:           & m=5, & n=1, & r=0. \\
+E2:           & &&&\text{Answer: 1.}
+\end{matrix}
+$$
+
+For $n=5$ and $m=2$ we have
+
+$$
+\begin{matrix}
+\text{Start:} & m=2, & n=5. &      \\
+E1:           & m=2, & n=5, & r=2. \\
+E3:           & m=5, & n=2, & r=2. \\
+E1:           & m=5, & n=2, & r=1. \\
+E3:           & m=2, & n=1, & r=1. \\
+E1:           & m=2, & n=1, & r=0. \\
+E2:           & &&&\text{Answer: 1.}
+\end{matrix}
+$$
+
+For $n=5$ and $m=3$ we have
+
+$$
+\begin{matrix}
+\text{Start:} & m=3, & n=5. &      \\
+E1:           & m=3, & n=5, & r=3. \\
+E3:           & m=5, & n=3, & r=3. \\
+E1:           & m=5, & n=3, & r=2. \\
+E3:           & m=3, & n=2, & r=2. \\
+E1:           & m=3, & n=2, & r=1. \\
+E3:           & m=2, & n=1, & r=1. \\
+E1:           & m=2, & n=1, & r=0. \\
+E2:           & &&&\text{Answer: 1.}
+\end{matrix}
+$$
+
+For $n=5$ and $m=4$ we have
+
+$$
+\begin{matrix}
+\text{Start:} & m=4, & n=5. &      \\
+E1:           & m=4, & n=5, & r=4. \\
+E3:           & m=5, & n=4, & r=4. \\
+E1:           & m=5, & n=4, & r=1. \\
+E3:           & m=4, & n=1, & r=1. \\
+E1:           & m=4, & n=1, & r=0. \\
+E2:           & &&&\text{Answer: 1.}
+\end{matrix}
+$$
+
+For $n=5$ and $m=5$ we have
+
+$$
+\begin{matrix}
+\text{Start:} & m=5, & n=5. &      \\
+E1:           & m=5, & n=5, & r=0. \\
+E2:           & &&&\text{Answer: 1.}
+\end{matrix}
+$$
+
+Therefore the average is $\frac{2+3+4+3+1}{5}=\frac{13}{5}=2.6$.

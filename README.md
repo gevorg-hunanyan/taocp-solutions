@@ -31,8 +31,8 @@
 [ex5](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex5.md)
 [ex6](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex6.md)
 [ex7](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex7.md)
-[ex8](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex8.md)
-[ex9](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-1/ex9.md)
+ex8
+ex9
 
 ## 1.2 Mathematical Preliminaries
 

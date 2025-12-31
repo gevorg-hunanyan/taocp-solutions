@@ -2,4 +2,6 @@
 
 ---
 
-coming soon
+Solution taken from TAOCP:
+
+> In all but a finite number of cases, $n>m$. And when $n>m$, the first iteration of Algorithm $E$ merely exchanges these numbers; so $U_m=T_m+1$.

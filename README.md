@@ -89,10 +89,10 @@ ex15
 
 ### 1.2.2 Numbers, Powers, and Logarithms
 
-ex1
-ex2
-ex3
-ex4
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
+[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
+[ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
 ex5
 ex6
 ex7

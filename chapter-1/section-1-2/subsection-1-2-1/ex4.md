@@ -1,0 +1,11 @@
+> Prove that, in addition to $F_n\le\phi^{n-1}$, Fibonacci numbers satisfy $F_n\ge\phi^{n-2}$.
+
+---
+
+If $n=2$, then $F_n=F_2=1\ge1=\phi^0=\phi^{n-2}$.
+
+If $n=3$, then $F_n=F_3=2\ge\frac{1+\sqrt5}{2}=\phi=\phi^{n-2}$.
+
+Assuming $F_{n-1}\ge\phi^{n-3}$ and $F_n\ge\phi^{n-2}$ we get
+
+$$ F_{n+1}=F_{n}+F{n-1}\ge\phi^{n-2}+\phi^{n-3}=\phi^{n-3}(\phi+1)=\phi^{n-3}\phi^2=\phi^{n-1}. $$

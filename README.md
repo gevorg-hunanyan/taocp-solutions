@@ -77,7 +77,7 @@ ex9
 [ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-1/ex4.md)
 [ex5](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-1/ex5.md)
 ex6
-ex7
+[ex7](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-1/ex7.md)
 ex8
 ex9
 ex10

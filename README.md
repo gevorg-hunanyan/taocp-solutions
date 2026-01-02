@@ -698,11 +698,94 @@ ex14
 
 ### 2.2.2. Sequential Allocation
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+ex15
+ex16
+ex17
+ex18
+ex19
+
 ### 2.2.3. Linked Allocation
+
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+ex15
+ex16
+ex17
+ex18
+ex19
+ex20
+ex21
+ex22
+ex23
+ex24
+ex25
+ex26
+ex27
+ex28
+ex29
+ex30
 
 ### 2.2.4. Circular Lists
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+ex15
+ex16
+ex17
+ex18
+
 ### 2.2.5. Doubly Linked Lists
+
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
 
 ### 2.2.6. Arrays and Orthogonal Lists
 

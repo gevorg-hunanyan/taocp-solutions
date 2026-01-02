@@ -48,6 +48,7 @@
       * [*2.3.4.3. The "infinity lemma"](#2343-the-infinity-lemma)
       * [*2.3.4.4. Enumeration of trees](#2344-enumeration-of-trees)
       * [2.3.4.5. Рath length](#2345-path-length)
+      * [2.3.4.6. History and Bibliography](#2346-history-and-bibliography)
     * [2.3.5. Lists and Garbage Collection](#235-lists-and-garbage-collection)
   * [2.4. Multilinked Structures](#24-multilinked-structures)
   * [2.5. Dynamic Storage Allocation](#25-dynamic-storage-allocation)
@@ -977,9 +978,77 @@ ex28
 
 ### *2.3.4.3. The "infinity lemma"
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+
 ### *2.3.4.4. Enumeration of trees
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+ex15
+ex16
+ex17
+ex18
+ex19
+ex20
+ex21
+ex22
+ex23
+ex24
+ex25
+ex26
+ex27
+ex28
+ex29
+ex30
+ex31
+ex32
+ex33
+
 ### 2.3.4.5. Path length
+
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+ex15
+ex16
+ex17
+
+### 2.3.4.6. History and Bibliography
+
+ex1
+ex2
+ex3
+ex4
 
 ### 2.3.5. Lists and Garbage Collection
 

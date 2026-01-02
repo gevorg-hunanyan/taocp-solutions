@@ -681,6 +681,21 @@ ex9
 
 ### 2.2.1. Stacks, Queues, and Deques
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+ex10
+ex11
+ex12
+ex13
+ex14
+
 ### 2.2.2. Sequential Allocation
 
 ### 2.2.3. Linked Allocation

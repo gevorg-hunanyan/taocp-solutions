@@ -667,6 +667,16 @@ ex19
 
 ## 2.1. Introduction
 
+ex1
+ex2
+ex3
+ex4
+ex5
+ex6
+ex7
+ex8
+ex9
+
 ## 2.2. Linear Lists
 
 ### 2.2.1. Stacks, Queues, and Deques

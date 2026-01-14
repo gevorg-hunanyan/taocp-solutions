@@ -173,7 +173,7 @@ ex47
 ### 1.2.4 Integer Functions and Elementary Number Theory
 
 [ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-4/ex001.md)
-ex2
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-4/ex002.md)
 ex3
 ex4
 ex5

@@ -118,7 +118,7 @@ ex25
 ex26
 ex27
 ex28
-ex29
+[ex29](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex029.md)
 
 ### 1.2.3 Sums and Products
 

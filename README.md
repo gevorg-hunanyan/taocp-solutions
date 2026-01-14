@@ -90,10 +90,10 @@ ex15
 
 ### 1.2.2 Numbers, Powers, and Logarithms
 
-[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
-[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
-[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
-[ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex7.md)
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex001.md)
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex002.md)
+[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex003.md)
+[ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex004.md)
 ex5
 ex6
 ex7
@@ -105,7 +105,7 @@ ex12
 ex13
 ex14
 ex15
-ex16
+[ex16](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex016.md)
 ex17
 ex18
 ex19

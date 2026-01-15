@@ -124,7 +124,7 @@ ex28
 
 [ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-3/ex001.md)
 [ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-3/ex002.md)
-ex3
+[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-3/ex003.md)
 ex4
 ex5
 ex6

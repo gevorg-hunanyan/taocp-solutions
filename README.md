@@ -122,8 +122,8 @@ ex28
 
 ### 1.2.3 Sums and Products
 
-[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex001.md)
-[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex002.md)
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-3/ex001.md)
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-3/ex002.md)
 ex3
 ex4
 ex5

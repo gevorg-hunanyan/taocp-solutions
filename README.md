@@ -505,8 +505,8 @@ ex20
 
 ### 1.3.1. Description of MIX
 
-ex1
-ex2
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex001.md)
+[ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex002.md)
 ex3
 ex4
 ex5

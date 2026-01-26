@@ -5,18 +5,14 @@ This repository documents my ongoing efforts to work through *The Art of Compute
 The current number of solved problems in the repository is shown below.
 <!-- SOLVED_ASCII_START -->
 ```
-                     . ####:    :####:  
-                     #######:  :######: 
-                     #:.   ##  ##    ## 
-                           ##  ##    ## 
-                          :#   ##    ## 
-                          ##    ######  
-                        .##:   .######. 
-                       .##:    ##    ## 
-                      :##:     ##    ## 
-                     :##:      ##    ## 
-                     ########  :######: 
-                     ########   :####:  
+                  ad888888b,  ad88888ba   
+                 d8"     "88 d8"     "8b  
+                         a8P Y8a     a8P  
+                      ,d8P"   "Y8aaa8P"   
+                    a8P"      ,d8"""8b,   
+                  a8P'       d8"     "8b  
+                 d8"         Y8a     a8P  
+                 88888888888  "Y88888P"   
 ```
 <!-- SOLVED_ASCII_END -->
 

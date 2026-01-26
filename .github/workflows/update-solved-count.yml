@@ -21,7 +21,7 @@ jobs:
 
       - name: List toilet fonts
         run: |
-          toilet -F list
+          toilet -f list
 
       - name: Set up Python
         uses: actions/setup-python@v5

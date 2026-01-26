@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
-FONT = "mono12"  # toilet font
+FONT = "bigascii12"  # toilet font
 WIDTH = 60       # for fake-centering
 
 text = README.read_text(encoding="utf-8")

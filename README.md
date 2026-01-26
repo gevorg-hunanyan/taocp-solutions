@@ -1,5 +1,14 @@
 # TAOCP Exercise Solutions
 
+This repository documents my ongoing efforts to work through *The Art of Computer Programming* (TAOCP) by Donald E. Knuth. It contains my solutions to selected exercises, along with notes and auxiliary material developed along the way. There are currently <!-- SOLVED_COUNT -->0<!-- /SOLVED_COUNT --> solved exercises in the repository. Solutions are written in Markdown and/or MMIX assembly (*.mms), and links to the solutions are provided below.
+
+---
+
+<!-- SOLVED_ASCII -->
+<!-- /SOLVED_ASCII -->
+
+---
+
 <!--ts-->
 * [Chapter 1 - Basic Concepts](#chapter-1---basic-concepts)
   * [1.1. Algorithms](#11-algorithms)

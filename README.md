@@ -63,6 +63,8 @@ This repository documents my ongoing efforts to work through *The Art of Compute
   * [2.5. Dynamic Storage Allocation](#25-dynamic-storage-allocation)
 <!--te-->
 
+<!-- SOLUTIONS_START -->
+
 # Chapter 1 - Basic Concepts
 
 ## 1.1 Algorithms
@@ -1139,3 +1141,4 @@ ex42
 ex43
 ex44
 
+<!-- SOLUTIONS_END -->

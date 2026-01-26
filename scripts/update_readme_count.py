@@ -32,7 +32,7 @@ count = sum(1 for t in targets if solution_url.match(t.strip()))
 # --- generate ASCII with figlet ---
 try:
     ascii_number = subprocess.check_output(
-        ["figlet", "-f", "doh", str(count)],
+        ["toilet", "-f", FONT, str(count)],
         text=True
     )
 except FileNotFoundError:

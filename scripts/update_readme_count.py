@@ -42,7 +42,7 @@ if n1 != 1:
     raise SystemExit("Could not find exactly one SOLVED_COUNT marker block in README.md")
 
 # --- 2) Generate ASCII for "Solved: N" using toilet ---
-label = f"Solved: {count}"
+label = str(count)
 ascii_raw = subprocess.check_output(["toilet", "-f", FONT, label], text=True)
 
 lines = ascii_raw.rstrip().splitlines()

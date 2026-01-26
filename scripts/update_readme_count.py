@@ -7,7 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
 # === CONFIG ===
-FONT = "bigmono12"   # toilet font (change if you want)
+FONT = "bigascii9"    # toilet font (change if you want)
 WIDTH = 60            # display width for centering
 # ==============
 

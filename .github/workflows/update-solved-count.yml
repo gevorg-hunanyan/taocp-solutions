@@ -14,10 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install figlet and fonts
+      - name: Install toilet and fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y figlet figlet-fonts
+          sudo apt-get install -y toilet toilet-fonts
+
 
       - name: Set up Python
         uses: actions/setup-python@v5

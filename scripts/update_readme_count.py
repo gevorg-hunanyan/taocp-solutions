@@ -7,8 +7,9 @@ ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
 # === CONFIG ===
-FONT = "bigascii12"   # toilet font (change if you want)
-WIDTH = 60            # display width for centering
+FIGLET_FONTS_DIR = ROOT / "fonts"
+FIGLET_FONT = "univers"   # expects fonts/univers.flf
+WIDTH = 60                # for fake-centering
 # ==============
 
 text = README.read_text(encoding="utf-8")
@@ -31,10 +32,9 @@ solution_url = re.compile(
     r"^https://github\.com/gevorg-hunanyan/taocp-solutions/blob/main/.*/ex\d+\.\w+$",
     re.IGNORECASE,
 )
-
 count = sum(1 for t in targets if solution_url.match(t.strip()))
 
-# --- 1) update normal text counter ---
+# --- 1) Update normal text marker ---
 text2, n1 = re.subn(
     r"(<!--\s*SOLVED_COUNT\s*-->)(.*?)(<!--\s*/SOLVED_COUNT\s*-->)",
     lambda m: f"{m.group(1)}{count}{m.group(3)}",
@@ -42,11 +42,14 @@ text2, n1 = re.subn(
     flags=re.DOTALL,
 )
 if n1 != 1:
-    raise SystemExit("Could not find exactly one SOLVED_COUNT marker block")
+    raise SystemExit("Could not find exactly one SOLVED_COUNT marker block in README.md")
 
-# --- 2) generate ASCII (NUMBER ONLY) ---
+# --- 2) Generate ASCII number using FIGLET + custom font ---
+if not (FIGLET_FONTS_DIR / f"{FIGLET_FONT}.flf").exists():
+    raise SystemExit(f"Missing font file: {FIGLET_FONTS_DIR}/{FIGLET_FONT}.flf")
+
 ascii_raw = subprocess.check_output(
-    ["toilet", "-f", FONT, str(count)],
+    ["figlet", "-d", str(FIGLET_FONTS_DIR), "-f", FIGLET_FONT, str(count)],
     text=True,
 )
 
@@ -67,7 +70,7 @@ def center_line(line: str) -> str:
 ascii_centered = "\n".join(center_line(line) for line in lines)
 ascii_block = f"```\n{ascii_centered}\n```"
 
-# --- 3) update ASCII block ---
+# --- 3) Update ASCII marker block ---
 text3, n2 = re.subn(
     r"(<!--\s*SOLVED_ASCII_START\s*-->)(.*?)(<!--\s*SOLVED_ASCII_END\s*-->)",
     lambda m: f"{m.group(1)}\n{ascii_block}\n{m.group(3)}",
@@ -75,7 +78,7 @@ text3, n2 = re.subn(
     flags=re.DOTALL,
 )
 if n2 != 1:
-    raise SystemExit("SOLVED_ASCII markers not found exactly once")
+    raise SystemExit("SOLVED_ASCII markers not found exactly once in README.md")
 
 # --- write if changed ---
 if text3 != text:

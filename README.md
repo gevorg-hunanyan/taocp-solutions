@@ -4,9 +4,9 @@ This repository documents my ongoing efforts to work through *The Art of Compute
 
 ---
 
- <!-- SOLVED_ASCII_START -->
+<!-- SOLVED_ASCII_START -->
 ```0```
-<!-- /SOLVED_ASCII_END -->
+<!-- SOLVED_ASCII_END -->
 
 ---
 

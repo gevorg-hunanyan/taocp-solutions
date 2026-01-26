@@ -4,9 +4,9 @@ This repository documents my ongoing efforts to work through *The Art of Compute
 
 ---
 
- <!-- ASCII_SOLVED_COUNT -->
+ <!-- ASCII_SOLVED_START -->
 ```0```
-<!-- /ASCII_SOLVED_COUNT -->
+<!-- /ASCII_SOLVED_END -->
 
 ---
 

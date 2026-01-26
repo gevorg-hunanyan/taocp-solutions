@@ -19,6 +19,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y toilet toilet-fonts
 
+      - name: List toilet fonts
+        run: |
+          toilet -F list
 
       - name: Set up Python
         uses: actions/setup-python@v5

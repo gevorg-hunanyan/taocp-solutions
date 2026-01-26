@@ -5,9 +5,6 @@ This repository documents my ongoing efforts to work through *The Art of Compute
 The current number of solved problems in the repository is shown below.
 <!-- SOLVED_ASCII_START -->
 ```
-                                        
-                                        
-                                        
                      . ####:    :####:  
                      #######:  :######: 
                      #:.   ##  ##    ## 
@@ -19,7 +16,7 @@ The current number of solved problems in the repository is shown below.
                       :##:     ##    ## 
                      :##:      ##    ## 
                      ########  :######: 
-                      ########   :####:
+                     ########   :####:  
 ```
 <!-- SOLVED_ASCII_END -->
 

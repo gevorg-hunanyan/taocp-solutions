@@ -2,7 +2,7 @@
 
 This repository documents my ongoing efforts to work through *The Art of Computer Programming* (TAOCP) by Donald E. Knuth. It contains my solutions to selected exercises, along with notes and auxiliary material developed along the way. There are currently 0 solved exercises in the repository. Solutions are written in Markdown and/or MMIX assembly (*.mms), and links to the solutions are provided below.
 
-**Solved:** <!-- SOLVED_COUNT -->0<!-- /SOLVED_COUNT -->
+**Solved:** <!-- SOLVED_COUNT -->29<!-- /SOLVED_COUNT -->
 
 ---
 

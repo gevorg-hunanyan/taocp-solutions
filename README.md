@@ -5,7 +5,14 @@ This repository documents my ongoing efforts to work through *The Art of Compute
 ---
 
 <!-- SOLVED_ASCII_START -->
-```0```
+```
+ ___   ___  
+|__ \ / _ \ 
+   ) | (_) |
+  / / > _ < 
+ / /_| (_) |
+|____|\___/
+```
 <!-- SOLVED_ASCII_END -->
 
 ---

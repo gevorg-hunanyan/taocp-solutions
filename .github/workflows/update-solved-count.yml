@@ -14,18 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install toilet and fonts
+      - name: Install figlet
         run: |
           sudo apt-get update
-          sudo apt-get install -y toilet toilet-fonts
-
-      - name: List toilet fonts (by directory)
-        run: |
-          echo "=== /usr/share/figlet ==="
-          ls -1 /usr/share/figlet | sed 's/\..*$//' | sort | head -n 200 || true
-          echo
-          echo "=== /usr/share/toilet/fonts ==="
-          ls -1 /usr/share/toilet/fonts | sed 's/\..*$//' | sort | head -n 200 || true
+          sudo apt-get install -y figlet
 
       - name: Set up Python
         uses: actions/setup-python@v5

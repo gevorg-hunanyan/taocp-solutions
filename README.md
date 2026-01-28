@@ -1,18 +1,18 @@
 # TAOCP Exercise Solutions
 
-This repository documents my ongoing efforts to work through *The Art of Computer Programming* (TAOCP) by Donald E. Knuth. It contains my solutions to selected exercises, along with notes and auxiliary material developed along the way. There are currently <!-- SOLVED_COUNT -->28<!-- /SOLVED_COUNT --> solved exercises in the repository. Solutions are written in Markdown and/or MMIX assembly (*.mms), and links to the solutions are provided below.
+This repository documents my ongoing efforts to work through *The Art of Computer Programming* (TAOCP) by Donald E. Knuth. It contains my solutions to selected exercises, along with notes and auxiliary material developed along the way. There are currently <!-- SOLVED_COUNT -->30<!-- /SOLVED_COUNT --> solved exercises in the repository. Solutions are written in Markdown and/or MMIX assembly (*.mms), and links to the solutions are provided below.
 
 The current number of solved problems in the repository is shown below.
 <!-- SOLVED_ASCII_START -->
 ```
-                  ad888888b,  ad88888ba   
-                 d8"     "88 d8"     "8b  
-                         a8P Y8a     a8P  
-                      ,d8P"   "Y8aaa8P"   
-                    a8P"      ,d8"""8b,   
-                  a8P'       d8"     "8b  
-                 d8"         Y8a     a8P  
-                 88888888888  "Y88888P"   
+                 ad888888b,    ,a8888a,     
+                d8"     "88  ,8P"'  `"Y8,   
+                        a8P ,8P        Y8,  
+                     aad8"  88          88  
+                     ""Y8,  88          88  
+                        "8b `8b        d8'  
+                Y8,     a88  `8ba,  ,ad8'   
+                 "Y888888P'    "Y8888P"     
 ```
 <!-- SOLVED_ASCII_END -->
 

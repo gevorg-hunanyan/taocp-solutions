@@ -529,8 +529,8 @@ ex20
 
 [ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex001.md)
 [ex2](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex002.md)
-ex3
-ex4
+[ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex003.md)
+[ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-3/subsection-1-3-1/ex004.md)
 ex5
 ex6
 ex7

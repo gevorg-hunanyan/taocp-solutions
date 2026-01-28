@@ -72,6 +72,47 @@ The current number of solved problems in the repository is shown below.
     * [2.3.5. Lists and Garbage Collection](#235-lists-and-garbage-collection)
   * [2.4. Multilinked Structures](#24-multilinked-structures)
   * [2.5. Dynamic Storage Allocation](#25-dynamic-storage-allocation)
+* [Chapter 3 - Random Numbers](#chapter-3---random-numbers)
+  * [3.1. Introduction](#31-introduction)
+  * [3.2. Generating Uniform Random Numbers](#32-generating-uniform-random-numbers)
+    * [3.2.1 The Linear Congruential Method](#321-the-linear-congruential-method)
+      * [3.2.1.1. Choice of modulus](#3211-choice-of-modulus)
+      * [3.2.1.2. Choice of multiplier](#3212-choice-of-multiplier)
+      * [3.2.1.3. Potency](#3213-potency)
+    * [3.2.2. Other Methods](#322-other-methods)
+  * [3.3. Statistical Tests](#33-statistical-tests)
+    * [3.3.1. General Test Procedures for Studying Random Data](#331-general-test-procedures-for-studying-random-data)
+    * [3.3.2. Empirical Tests](#332-empirical-tests)
+    * [*3.3.3. Theoretical Tests](#333-theoretical-tests)
+    * [3.3.4. The Spectral Test](#334-the-spectral-test)
+  * [3.4. Other Types of Random Quantities](#34-other-types-of-random-quantities)
+    * [3.4.1. Numerical Distributions](#341-numerical-distributions)
+    * [3.4.2. Random Sampling and Shuffling](#342-random-sampling-and-shuffling)
+  * [*3.5. What is a Random Sequence?](#35-what-is-a-random-sequence)
+  * [3.6. Summary](#36-summary)
+* [Chapter 4 - Arithmetic](#chapter-4---arithmetic)
+  * [4.1. Positional Number Systems](#41-positional-number-systems)
+  * [4.2. Floating Point Arithmetic](#42-floating-point-arithmetic)
+    * [4.2.1. Single-Precision Calculations](#421-single-precision-calculations)
+    * [4.2.2. Accuracy of Floating Point Arithmetic](#422-accuracy-of-floating-point-arithmetic)
+    * [*4.2.3. Double-Precision Calculations](#423-double-precision-calculations)
+    * [4.2.4. Distribution of Floating Point Numbers](#424-distribution-of-floating-point-numbers)
+  * [4.3. Multiple-Precision Arithmetic](#43-multiple-precision-arithmetic)
+    * [4.3.1. The Classical Algorithms](#431-the-classical-algorithms)
+    * [*4.3.2. Modular Arithmetic](#432-modular-arithmetic)
+    * [*4.3.3. How Fast Can We Multiply?](#433-how-fast-can-we-multiply?)
+  * [4.4. Radix Conversion](#44-radix-conversion)
+  * [4.5. Rational Arithmetic](#45-rational-arithmetic)
+    * [4.5.1. Fractions](#451-fractions)
+    * [4.5.2. The Greatest Common Divisor](#452-the-greatest-common-divisor)
+    * [*4.5.3. Analysis of Euclid's Algorithm](#453-analysis-of-euclid's-algorithm)
+    * [4.5.4. Factoring into Primes](#454-factoring-into-primes)
+  * [4.6. Polynomial Arithmetic](#46-polynomial-arithmetic)
+    * [4.6.1. Division of Polynomials](#461-division-of-polynomials)
+    * [*4.6.2. Factorization of Polynomials](#462-factorization-of-polynomials)
+    * [4.6.3. Evaluation of Powers](#463-evaluation-of-powers)
+    * [4.6.4. Evaluation of Polynomials](#464-evaluation-of-polynomials)
+  * [*4.7. Manipulation of Power Series](#47-manipulation-of-power-series)
 <!--te-->
 
 <!-- SOLUTIONS_START -->
@@ -1151,5 +1192,51 @@ ex41
 ex42
 ex43
 ex44
+
+# Chapter 3 - Random Numbers
+
+## 3.1. Introduction
+
+## 3.2. Generating Uniform Random Numbers
+
+### 3.2.1 The Linear Congruential Method
+
+### 3.2.1.1. Choice of modulus
+### 3.2.1.2. Choice of multiplier
+### 3.2.1.3. Potency
+### 3.2.2. Other Methods
+## 3.3. Statistical Tests
+### 3.3.1. General Test Procedures for Studying Random Data
+### 3.3.2. Empirical Tests
+### *3.3.3. Theoretical Tests
+### 3.3.4. The Spectral Test
+## 3.4. Other Types of Random Quantities
+### 3.4.1. Numerical Distributions
+### 3.4.2. Random Sampling and Shuffling
+## *3.5. What is a Random Sequence?
+## 3.6. Summary
+# Chapter 4 - Arithmetic
+## 4.1. Positional Number Systems
+## 4.2. Floating Point Arithmetic
+### 4.2.1. Single-Precision Calculations
+### 4.2.2. Accuracy of Floating Point Arithmetic
+### *4.2.3. Double-Precision Calculations
+### 4.2.4. Distribution of Floating Point Numbers
+## 4.3. Multiple-Precision Arithmetic
+### 4.3.1. The Classical Algorithms
+### *4.3.2. Modular Arithmetic
+### *4.3.3. How Fast Can We Multiply?
+## 4.4. Radix Conversion
+## 4.5. Rational Arithmetic
+### 4.5.1. Fractions
+### 4.5.2. The Greatest Common Divisor
+### *4.5.3. Analysis of Euclid's Algorithm
+### 4.5.4. Factoring into Primes
+## 4.6. Polynomial Arithmetic
+### 4.6.1. Division of Polynomials
+### *4.6.2. Factorization of Polynomials
+### 4.6.3. Evaluation of Powers
+### 4.6.4. Evaluation of Polynomials
+## *4.7. Manipulation of Power Series
 
 <!-- SOLUTIONS_END -->

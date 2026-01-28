@@ -40,7 +40,7 @@ jobs:
           git push
 
       - name: Wait 5 minutes
-        run: sleep 300
+        run: sleep 10
 
       - name: Dispatch event to profile repo
         env:

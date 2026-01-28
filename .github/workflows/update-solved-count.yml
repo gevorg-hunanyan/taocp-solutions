@@ -39,7 +39,7 @@ jobs:
           git commit -m "chore: update solved count"
           git push
 
-      - name: Wait 5 minutes
+      - name: Wait 10 seconds
         run: sleep 10
 
       - name: Dispatch event to profile repo
@@ -49,5 +49,5 @@ jobs:
           curl -sS -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${TOKEN}" \
-            https://api.github.com/repos/gevorg-hunanyan/taocp-solutions/dispatches \
+            https://api.github.com/repos/gevorg-hunanyan/gevorg-hunanyan/dispatches \
             -d '{"event_type":"taocp_updated"}'

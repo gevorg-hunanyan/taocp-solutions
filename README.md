@@ -16,8 +16,6 @@ The current number of solved problems in the repository is shown below.
 ```
 <!-- SOLVED_ASCII_END -->
 
----
-
 # ToC of TAOCP
 
 <!--ts-->

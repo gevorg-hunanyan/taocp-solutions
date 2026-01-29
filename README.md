@@ -147,7 +147,7 @@ ex11
 ex12
 ex13
 ex14
-ex15
+[ex15](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-1/ex015.md)
 
 ### 1.2.2 Numbers, Powers, and Logarithms
 

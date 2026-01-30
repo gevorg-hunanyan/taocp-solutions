@@ -167,7 +167,7 @@ ex13
 ex14
 ex15
 [ex16](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex016.md)
-ex17
+[ex17](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex017.md)
 ex18
 ex19
 ex20

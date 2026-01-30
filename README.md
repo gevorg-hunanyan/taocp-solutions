@@ -156,11 +156,11 @@ ex14
 [ex3](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex003.md)
 [ex4](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex004.md)
 ex5
-ex6
+[ex6](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex006.md)
 ex7
 ex8
 ex9
-ex10
+[ex10](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-2/ex010.md)
 ex11
 ex12
 ex13

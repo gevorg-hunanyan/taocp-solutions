@@ -149,6 +149,21 @@ The current number of solved problems in the repository is shown below.
   * [6.3. Digital Searching](#63-digital-searching)
   * [6.4. Hashing](#64-hashing)
   * [6.5. Retrieval on Secondary Keys](#65-retrieval-on-secondary-keys)
+* [Chapter 7 - Combinatorial Searching](#chapter-7---combinatorial-searching)
+  * [7.1. Zeros and Ones](#71-zeros-and-ones)
+    * [7.1.1. Boolean Basics](#711-boolean-basics)
+    * [7.1.2. Boolean Evaluation](#712-boolean-evaluation)
+    * [7.1.3. Bitwise Tricks and Techniques](#713-bitwise-tricks-and-techniques)
+    * [7.1.4. Binary Decision Diagrams](#714-binary-decision-diagrams)
+  * [7.2. Generating All Possibilities](#72-generating-all-possibilities)
+    * [7.2.1. Generating Basic Combinatorial Patterns](#721-generating-basic-combinatorial-patterns)
+      * [7.2.1.1. Generating all n-tuples](#7211-generating-all-n-tuples)
+      * [7.2.1.2. Generating all permutations](#7212-generating-all-permutations)
+      * [7.2.1.3. Generating all combinations](#7213-generating-all-combinations)
+      * [7.2.1.4. Generating all partitions](#7214-generating-all-partitions)
+      * [7.2.1.5. Generating all set partitions](#7215-generating-all-set-partitions)
+      * [7.2.1.6. Generating all trees](#7216-generating-all-trees)
+      * [7.2.1.7. History and further references](#7217-history-and-further-references)
 <!--te-->
 
 <!-- SOLUTIONS_START -->
@@ -2363,5 +2378,35 @@ ex28
 ## 6.4. Hashing
 
 ## 6.5. Retrieval on Secondary Keys
+
+# Chapter 7 - Combinatorial Searching
+
+## 7.1. Zeros and Ones
+
+### 7.1.1. Boolean Basics
+
+### 7.1.2. Boolean Evaluation
+
+### 7.1.3. Bitwise Tricks and Techniques
+
+### 7.1.4. Binary Decision Diagrams
+
+## 7.2. Generating All Possibilities
+
+### 7.2.1. Generating Basic Combinatorial Patterns
+
+### 7.2.1.1. Generating all n-tuples
+
+### 7.2.1.2. Generating all permutations
+
+### 7.2.1.3. Generating all combinations
+
+### 7.2.1.4. Generating all partitions
+
+### 7.2.1.5. Generating all set partitions
+
+### 7.2.1.6. Generating all trees
+
+### 7.2.1.7. History and further references
 
 <!-- SOLUTIONS_END -->

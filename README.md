@@ -111,6 +111,44 @@ The current number of solved problems in the repository is shown below.
     * [4.6.3. Evaluation of Powers](#463-evaluation-of-powers)
     * [4.6.4. Evaluation of Polynomials](#464-evaluation-of-polynomials)
   * [*4.7. Manipulation of Power Series](#47-manipulation-of-power-series)
+* [Chapter 5 - Sorting](#chapter-5---sorting)
+  * [*5.1. Combinatorial Properties of Permutations](#51-combinatorial-properties-of-permutations)
+    * [*5.1.1. Inversions](#511-inversions)
+    * [*5.1.2. Permutations of a Multiset](#512-permutations-of-a-multiset)
+    * [*5.1.3. Runs](#513-runs)
+    * [*5.1.4. Tableaux and Involutions](#514-tableaux-and-involutions)
+  * [5.2. Internal Sorting](#52-internal-sorting)
+    * [5.2.1. Sorting by Insertion](#521-sorting-by-insertion)
+    * [5.2.2. Sorting by Exchanging](#522-sorting-by-exchanging)
+    * [5.2.3. Sorting by Selection](#523-sorting-by-selection)
+    * [5.2.4. Sorting by Merging](#524-sorting-by-merging)
+    * [5.2.5. Sorting by Distribution](#525-sorting-by-distribution)
+  * [5.3. Optimum Sorting](#53-optimum-sorting)
+    * [5.3.1. Minimum-Comparison Sorting](#531-minimum-comparison-sorting)
+    * [*5.3.2. Minimum-Comparison Merging](#532-minimum-comparison-merging)
+    * [*5.3.3. Minimum-Comparison Selection](#533-minimum-comparison-selection)
+    * [*5.3.4. Networks for Sorting](#534-networks-for-sorting)
+  * [5.4. External Sorting](#54-external-sorting)
+    * [5.4.1. Multiway Merging and Replacement Selection](#541-multiway-merging-and-replacement-selection)
+    * [*5.4.2. The Polyphase Merge](#542-the-polyphase-merge)
+    * [*5.4.3. The Cascade Merge](#543-the-cascade-merge)
+    * [*5.4.4. Reading Tape Backwards](#544-reading-tape-backwards)
+    * [*5.4.5. The Oscilating Sort](#545-the-oscilation-sort)
+    * [*5.4.6. Practical Considerations for Tape Merging](#546-practical-considerations-for-tape-merging)
+    * [*5.4.7. External Radix Sorting](#547-external-radix-sorting)
+    * [*5.4.8. Two-Tape Sorting](#548-two-tape-sorting)
+    * [*5.4.9. Disks and Drums](#549-disks-and-drums)
+  * [5.5. Summary, History, and Bibliography](#55-summary-history-and-bibliography)
+* [Chapter 6 - Searching](#chapter-6---searching)
+  * [6.1. Sequential Searching](#61-sequential-searching)
+  * [6.2. Searching by Comparison of Keys](#62-searching-by-comparison-of-keys)
+    * [6.2.1. Searching an Ordered Table](#621-searching-an-ordered-table)
+    * [6.2.2. Binary Tree Searching](#622-binary-tree-searching)
+    * [6.2.3. Balanced Trees](#623-balanced-trees)
+    * [6.2.4. Multiway Trees](#624-multiway-trees)
+  * [6.3. Digital Searching](#63-digital-searching)
+  * [6.4. Hashing](#64-hashing)
+  * [6.5. Retrieval on Secondary Keys](#65-retrieval-on-secondary-keys)
 <!--te-->
 
 <!-- SOLUTIONS_START -->
@@ -2249,5 +2287,81 @@ ex25
 ex26
 ex27
 ex28
+
+# Chapter 5 - Sorting
+
+## *5.1. Combinatorial Properties of Permutations
+
+### *5.1.1. Inversions
+
+### *5.1.2. Permutations of a Multiset
+
+### *5.1.3. Runs
+
+### *5.1.4. Tableaux and Involutions
+
+## 5.2. Internal Sorting
+
+### 5.2.1. Sorting by Insertion
+
+### 5.2.2. Sorting by Exchanging
+
+### 5.2.3. Sorting by Selection
+
+### 5.2.4. Sorting by Merging
+
+### 5.2.5. Sorting by Distribution
+
+## 5.3. Optimum Sorting
+
+### 5.3.1. Minimum-Comparison Sorting
+
+### *5.3.2. Minimum-Comparison Merging
+
+### *5.3.3. Minimum-Comparison Selection
+
+### *5.3.4. Networks for Sorting
+
+## 5.4. External Sorting
+
+### 5.4.1. Multiway Merging and Replacement Selection
+
+### *5.4.2. The Polyphase Merge
+
+### *5.4.3. The Cascade Merge
+
+### *5.4.4. Reading Tape Backwards
+
+### *5.4.5. The Oscilating Sort
+
+### *5.4.6. Practical Considerations for Tape Merging
+
+### *5.4.7. External Radix Sorting
+
+### *5.4.8. Two-Tape Sorting
+
+### *5.4.9. Disks and Drums
+
+## 5.5. Summary, History, and Bibliography
+
+# Chapter 6 - Searching
+
+## 6.1. Sequential Searching
+
+## 6.2. Searching by Comparison of Keys
+
+### 6.2.1. Searching an Ordered Table
+
+### 6.2.2. Binary Tree Searching
+
+### 6.2.3. Balanced Trees
+
+### 6.2.4. Multiway Trees
+
+## 6.3. Digital Searching
+
+## 6.4. Hashing
+
+## 6.5. Retrieval on Secondary Keys
 
 <!-- SOLUTIONS_END -->

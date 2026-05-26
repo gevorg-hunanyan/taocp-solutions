@@ -338,7 +338,7 @@ ex49
 
 ### 1.2.5 Permutations and Factorials
 
-ex1
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-1/section-1-2/subsection-1-2-5/ex001.md)
 ex2
 ex3
 ex4

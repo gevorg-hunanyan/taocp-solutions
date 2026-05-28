@@ -67,8 +67,12 @@ def center_line(line: str) -> str:
     pad = max((WIDTH - len(line)) // 2, 0)
     return " " * pad + line
 
+def left_align_line(line: str) -> str:
+    return line
+
+ascii_left = "\n".join(left_align_line(line) for line in lines)
 ascii_centered = "\n".join(center_line(line) for line in lines)
-ascii_block = f"```\n{ascii_centered}\n```"
+ascii_block = f"```\n{ascii_left}\n```"
 
 # --- 3) Update ASCII marker block ---
 text3, n2 = re.subn(

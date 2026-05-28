@@ -133,7 +133,7 @@ The current number of solved problems in the repository is shown below.
     * [*5.4.2. The Polyphase Merge](#542-the-polyphase-merge)
     * [*5.4.3. The Cascade Merge](#543-the-cascade-merge)
     * [*5.4.4. Reading Tape Backwards](#544-reading-tape-backwards)
-    * [*5.4.5. The Oscilating Sort](#545-the-oscilation-sort)
+    * [*5.4.5. The Oscillating Sort](#545-the-oscillating-sort)
     * [*5.4.6. Practical Considerations for Tape Merging](#546-practical-considerations-for-tape-merging)
     * [*5.4.7. External Radix Sorting](#547-external-radix-sorting)
     * [*5.4.8. Two-Tape Sorting](#548-two-tape-sorting)
@@ -164,6 +164,10 @@ The current number of solved problems in the repository is shown below.
       * [7.2.1.5. Generating all set partitions](#7215-generating-all-set-partitions)
       * [7.2.1.6. Generating all trees](#7216-generating-all-trees)
       * [7.2.1.7. History and further references](#7217-history-and-further-references)
+    * [Mathematical Preliminaries Redux](#mathematical-preliminaries-redux)
+    * [7.2.2. Backtrack Programming](#722-backtrack-programming)
+      * [7.2.2.1. Dancing Links](#7221-dancing-links)
+      * [7.2.2.2. Satisfiability](#7222-satisfiability)
 <!--te-->
 
 <!-- SOLUTIONS_START -->
@@ -2347,7 +2351,7 @@ ex28
 
 ### *5.4.4. Reading Tape Backwards
 
-### *5.4.5. The Oscilating Sort
+### *5.4.5. The Oscillating Sort
 
 ### *5.4.6. Practical Considerations for Tape Merging
 
@@ -2408,5 +2412,13 @@ ex28
 ### 7.2.1.6. Generating all trees
 
 ### 7.2.1.7. History and further references
+
+### Mathematical Preliminaries Redux
+
+### 7.2.2. Backtrack Programming
+
+### 7.2.2.1. Dancing Links
+
+### 7.2.2.2. Satisfiability
 
 <!-- SOLUTIONS_END -->

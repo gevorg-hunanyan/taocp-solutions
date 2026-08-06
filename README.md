@@ -786,7 +786,7 @@ ex19
 
 ## 2.1. Introduction
 
-ex1
+[ex1](https://github.com/gevorg-hunanyan/taocp-solutions/blob/main/chapter-2/section-2-1/ex001.md)
 ex2
 ex3
 ex4
